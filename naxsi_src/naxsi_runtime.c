@@ -4,10 +4,10 @@
  * Licensed under GNU GPL v3.0 – See the LICENSE notice for details
  */
 
-#include "assert.h"
 #include "naxsi.h"
 #include "naxsi_macros.h"
 #include "naxsi_net.h"
+#include "assert.h"
 
 /* used to store locations during the configuration time.
    then, accessed by the hashtable building feature during "init" time. */
